@@ -1,0 +1,34 @@
+Home
+
+├── Shop
+│     ├── Journal Category Pages
+│     │       ├── Hardcover Journals
+│     │       ├── Softcover Journals
+│     │       ├── Bullet Journals
+│     │       └── Digital Journals
+│     │
+│     └── Product Detail Page
+│             ├── Journal Description
+│             ├── Price
+│             ├── Add to Cart
+│             └── Related Products
+│
+├── Cart
+│     ├── View Items
+│     ├── Update Quantity
+│     └── Proceed to Checkout
+│
+├── Checkout
+│     ├── Shipping Information
+│     ├── Payment Information
+│     └── Order Confirmation
+│
+├── About
+│
+├── Contact
+│     └── Contact Form (name, email, message)
+│
+└── User Account
+       ├── Login / Register
+       ├── Order History
+       └── Profile Settings
